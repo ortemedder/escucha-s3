@@ -1,0 +1,2 @@
+# Ajustes de la placa para este proyecto (los lee el Arduino IDE 2 reciente y arduino-cli)
+default_fqbn: esp32:esp32:esp32s3:FlashSize=16M,PSRAM=opi,PartitionScheme=app3M_fat9M_16MB
